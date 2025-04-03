@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nom": "iPhone",
+        "prix": 899.99,
+        "stock": 10,
+        "categorie": "Phone"
+    },
+    {
+        "id": 2,
+        "nom": "Samsung Galaxy",
+        "prix": 799.99,
+        "stock": 8,
+        "categorie": "Phone"
+    }
+]
